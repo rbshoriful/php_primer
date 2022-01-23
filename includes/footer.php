@@ -1,5 +1,5 @@
 <?php
-        echo "<p style='background-color:gray'>Copyright & copy 1999_" . date("Y") . " W3Schools.com</p>";
+        echo "<p class='bg-dark text-white p-2 mt-5 text-center'>Copyright & copy 1999_" . date("Y") . " W3Schools.com</p>";
     ?>
     </div>
         <!-- start div header and end div footer -->
